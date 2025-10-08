@@ -5,5 +5,5 @@ Creation-Date: 2025-04-13T17:52:58-04:00
 ====== CAMPAIGN ======
 Changing pages and notes related to the current campaign as it has been running.
 
-Testing Auto-push to GitHub
+Testing the Push back to Zim
 
