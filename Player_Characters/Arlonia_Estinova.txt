@@ -1,0 +1,95 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:11:13-04:00
+
+====== Arlonia Estinova ======
+===== Basic Information =====
+== Race and Class: Tiefling Warlock ==
+
+== Alignment: Chaotic Evil ==
+Arlonia's is fairly jaded and unsympathetic. He tends to be very utilitarian, seeing people for their potenial value rather than their human dignity. He also prefers to avoid risk when possible.
+
+== Background: Soldier ==
+Arlonia spent nearly all of his adult life as a solider in the [[Governments and Organizations:Obsidian Citadel Army Corps (OCAC)|Obsidian Citadel Army Corps]], having been trained from a young age to be an effecive fighter. Battle is in his blood, and even after departing from the OCAC, his desires revolve around death and where it may be found.
+
+== Appearance ==
+Arlonia Estinova is a male Tiefling with black hair, red skin, and brilliant gold eyes. He is 6 feet tall and weighs around 195 pounds. He is 34 years old, but not at all past his physical prime.
+
+{{~\Downloads\ArloniaEstinova.png}}
+
+== Personality ==
+Arlonia cares little for the safety of others, which is likely due to his understanding of the universality of death. He wants nothing more than to have fun and feel the rush of taking the lives of others while his heart is still beating. He can be sadistic at times, and is inclined to indulge in physical desires.
+
+"Nothing important, killed a a lot, saved a lot, doesn't matter in the end. Was in the Obsidian Citadel Army Corps for awhile. Got bored though as the war ended and I needed the rush of life and death."
+
+== Languages ==
+* Common 
+* Infernal
+
+===== Skills and Abilities =====
+== Ability Scores ==
+* Charisma: 16 (+3)
+* Constitution: 15 (+2)
+* Dexterity: 14 (+2)
+* Strength: 12 (+1)
+* Intelligence: 10 (+0) 
+* Wisdom: 8 (-1)
+== Proficiencies ==
+* Arcana (INT) 
+* Athletics (STR) 
+* Deception (CHA)
+* Intimidation (CHA)
+== Passive Senses ==
+* Investigation: 10
+* Insight: 9
+* Perception: 9
+
+===== Inventory and Equipment =====
+== Armor Proficiencies ==
+* Light 
+* Medium 
+* Shields
+
+Arlonia Estinova currently wears __STUDDED LEATHER ARMOR__
+Other armor pieces in his inventory include:
+* Leather Armor
+
+== Weapon Proficiencies ==
+* Simple
+* Martial
+
+Arlonia Estinova currently wields a __DAGGER__ and a __SICKLE.__
+Other weapons in his inventory include:
+* 
+
+== Spells and Cantrips ==
+Arlonia Estinova has __3 LEVEL ONE__ spell slots. His known spells include:
+* Hellish Rebuke
+* Bane
+* False Life Hex
+
+He also knows the following cantrips:
+* Eldritch Blast
+* True Strike
+
+== Tools: Dice Set ==
+This tool set includes: 
+* A set of dice that may be played at any time.
+
+== Key Items ==
+* Rope of Climbing
+* Scholar's Pack
+	* Backpack
+	* Book of lore
+	* Ink pen
+	* Bottle of ink
+	* 10 sheets of parchment
+	* Small bag of sand
+	* Small knife
+* __Infernal Ash__
+
+===== Relationships =====
+
+== [[Governments and Organizations:Obsidian Citadel Army Corps (OCAC)|Obsidian Citadel Army Corps]] ==
+Having dedicated all of his adult life until now to service in the name of the OCAC, and having fought in the great ___ [[Historical Events:NEEDNAME Recent War|War]]. His connections to OCAC have faded in his time since leaving the service, but he is well remembered by active members to have been a 
+

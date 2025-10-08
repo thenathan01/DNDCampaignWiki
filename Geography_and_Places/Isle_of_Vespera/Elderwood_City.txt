@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:08:29-04:00
+
+====== Elderwood City ======
+===== Location =====
+South-east of the Isle of Vespera, inland from the coast and bordering the great Elderwoods forest.
+
+===== Geography =====
+Elderwood City lies in the south-east of the Isle of Vespera, just off to the east side of the Elderwoods. On the other side of the great forest lies the Vesperian River, and the Mouth of the Delta crossing.
+
+===== Key Features =====
+* Carver's Guild
+* ARG House
+* The East Entrance
+* Artisan Market
+* Elandra's Storefront
+	* And her lab
+* Dust Pits
+* Saw Mill
+	* Mill workers lodging's
+
+
+===== Local Culture =====
+* The Artisan Market stays open year round, and features select crafts that the city is known for, including some made by members of the Carver's guild. 
+	* A wide variety of crafts are available for purchase here, some seemingly mere trinkets, and others with a variety of uses.
+		* NEED SHOP LISTING/DIFFERENT BOOTH TYPES
+		* Blankets
+		* Tiny Model Ships
+		* Kitchen Supplies (cutting boards, wooden spatulas and spoons, etc.)
+* The mill workers reside in less-than desireable lodgings surrounding the sawmill. Their work is essential to Elderwood City, but their presence is often contentious. They are mostly sent on year-long contracts from the Azura's Rest Labor Office. Apart from the Mill Boss, Grady, who is native to the city and has run the mill for many years, through many different shifts of mill workers.
+* The wish fountain in the center of the city is a grand construction, and it's existence dates back to the very earliest (and most prosperous) days of the city itself. It's existence is a symbol of hope and optimism to some, and to others a dismal display of times long past.
+
+===== Notable Residents =====
+* Elandra
+* Master Carver Thorne
+* Grady the Mill Boss
+* Market Vendors
+	* tiny model ship person
+
+===== Quest Lines =====
+* Fetching Sunblossom Petals from the Woods to heal the people of their affliction
+* Being awarded the Carvers Guild Emblem
+	* Master Thorne may reveal to the party, only after they have gained his trust, the true purpose of the Guild emblems, and that they must be brought to the Azura's Rest Capital and slotted in to the round table
+
+

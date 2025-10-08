@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-10T14:50:51-04:00
+
+====== Farmer's Guild ======
+==== Overview ====
+The Farmer's Guild is an influential organization based in the heart of [[Geography and Places:Isle of Vespera:Sunhollow|Sunhollow]]. It's combination of members are responsible for nearly 100% of the agricultural output to the entire [[Geography and Places:Isle of Vespera|Isle of Vespera]], including the vast markets at [[Geography and Places:Isle of Vespera:Azura's Rest|Azura's Rest]]. 
+
+==== History ====
+Established centuries ago when the island's agriculture began to flourish, the Farmer's Guild quickly became a central force in island politics and commerce. The guild has held significant trade power since it's existence, sending representatives to speak on the farmers' behalf in issues like agricultural exports and resource management.
+
+Despite shifting economic landscapes, the Farmer's Guild remains a symbol of stability and prosperity on the island, largely thanks to its history of skilled members; both agriculturally and politically.
+
+==== Current Role ====
+The guild continues to manage the agricultural future and present of the island, monitoring harvests, farming methods, and cattle across the island. Member's of the guild, like it's leader [[NPCs:Thalia Greenfield|Thalia Greenfield]], participate actively and frequently in council meetings on island governance, called upon for decision-making in trade matters.
+
+The collapse of the [[Fishermen's Guild]] in the past twenty years has only lent more power to the Farmer's Guild, as their output has become more important than ever to the survival of thousands. 
+
+==== Cultural Significance ====
+For the agricultural community on the [[Geography and Places:Isle of Vespera|Isle of Vespera]], the Farmer's Guild is intrinsic to their identity, safety, and  community. The guild is responsible for the vibrant harvest festivals and markets that are often found taking place around Sunhollow. 
+
+It also serves as a center for agricultural education, training new generations in the art of farming and stewardship of the land.

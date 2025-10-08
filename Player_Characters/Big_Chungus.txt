@@ -1,0 +1,97 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:11:05-04:00
+
+====== Big Chungus ======
+===== Basic Information =====
+== Race and Class: Half-Orc Barbarian ==
+
+== Alignment: Chaotic Good ==
+Big Chungus at times leans more towards Chaotic Neutral, but his heart is truly always in the right place. He has a tendency to have pretty off-the-chain ideas, and frequently can be seen realizing them quite stubbornly.
+
+== Background: Criminal ==
+Big Chungus was orphaned at a young age, and raised within the culture and values of the [[Governments and Organizations:National Leather Association|National Leather Association]]. "From a young age I have been around my fake father, [[NPCs:Big Daddy Gram|Big Daddy Gram]]. I never knew my parents so it was big daddy who raised me." 
+
+== Appearance ==
+Big Chungus is a male half-orc with dark blue eyes and shaggy brown hair. His skin is dark green, and covered in cuts and bruises. He is 7 feet tall and 260 pounds, making him an impressive opponent. He is 15 years old, which is just past full maturity for a half-orc.
+
+{{~\Downloads\BigChungus.png?width=300}}
+
+== Personality ==
+As a result of his upbringing in the NLA, Big Chungus has somewhat of an addiction when it comes to bondage and other carnal desires. 
+
+He is overly tempted by both money and women, and believes that the world should be a place where everyone can be their kinky selves openly. 
+
+He is very outgoing and impuslive.
+
+== Languages ==
+* Common
+* Orc
+
+===== Skills and Abilities =====
+== Ability Scores ==
+* Strength: 18 (+4)
+* Constitution: 15 (+2)
+* Dexterity: 13 (+1)
+* Charisma: 13 (+1)
+* Wisdom: 10 (+0)
+* Intelligence: 9 (-1)
+== Proficiencies ==
+* Athletics (STR)
+* Initmidation (CHA)
+* Perception (WIS)
+* Sleight of Hand (DEX)
+* Stealth (DEX)
+== Passive Senses ==
+* Investigation: 9
+* Insight: 10
+* Perception: 12
+
+===== Inventory and Equipment =====
+== Armor Proficiencies ==
+* Light 
+* Medium
+* Shields
+
+Big Chungus currently wears __NO ARMOR__
+Other armor pieces in his inventory include:
+* Traveller's Clothes
+
+== Weapon Proficiencies ==
+* Simple
+* Martial
+
+Big Chungus currently wields a __GREATAXE.__
+Other weapons in his inventory include:
+* Handaxe
+* Dagger
+
+== Tools: Thieves' Tools ==
+This set of tools includes:
+* a small file 
+* a set of lock picks 
+* a small mirror mounted on a metal handle
+* a set of narrow-bladed scissors
+* a pair of pliers.
+
+== Key Items ==
+* Explorer's Pack
+	* Backpack
+	* Bedroll
+	* 2 flasks of Oil
+	* 10 days of raions
+	* Rope
+	* Tinderbox
+	* 10 Torches
+* Crowbar
+* Stale Bread
+* __Sunblossom Petals__
+* __Elderwood Bark__
+
+===== Relationships =====
+
+== [[NPCs:Big Daddy Gram|Big Daddy Gram]] ==
+Big Daddy Gram took pity on an infant Big Chungus, who had been orphaned from unknown causes. He brought him to live within the [[Governments and Organizations:National Leather Association|NLA]] and learn their ways.
+"Big Daddy has always been there to love and support me. He taught me to LOVE the pain and will always support me. "
+
+

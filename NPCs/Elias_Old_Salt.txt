@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:12:18-04:00
+
+====== Elias 'Old Salt' ======
+==== Background ====
+Elias 'Old Salt' Merrill was a seasoned sailor in his day, known for having sailed all across Vespera and Aranthor, and most importantly running on trade ships that ran in and out of [[Geography and Places:Isle of Vespera:Azura's Rest|Azura's Rest]]. After retiring from his sailing days, he settled down in [[Geography and Places:Isle of Vespera:Dawn's Edge|Dawn's Edge]], where he quickly became an important representative of the [[Governments and Organizations:Fishermen's Guild|Fishermen's Guild]]. After the death of the fishing industry and the loss of the guilds' power, Old Salt fixed up an old tavern in town, The Seagull's Haven. 
+
+Having spent most of his life at sea, Elias amassed a wealth of experience and knowledge about the surrounding areas. He is always eager to service traveller's and hear their stories, while doling out his own cautionary tales about the dangers of the sea. 
+
+==== Appearance ====
+{{~\Downloads\oldSalt.png?width=300}}
+
+==== Personality ====
+* __Warm but Gruff__: He is welcoming to all that enter the tavern, and has a strong passion for service. At the same time, he does not tolerate any who try to cause trouble in his establishment.
+* __Knowledgeable__: Old Salt has a wealth of knowledge about the peoples and politics of not only the Isle of Vespera, but from across the sea in Aranthor as well. 
+* __Selfless__: He doesn't ask for anything more than a story from the people he comes across, and is more than used to getting by without any help from others.
+* __Sea Puns:__ He tends to speak in euphemisms/puns/similes/any sort of metaphor that could relate the current conversation to the sea.
+
+==== Skills ====
+* __Sailing and Navigation__: With years of experience on ships, his knowledge of the sea routes and weather patterns in the area is unparalleled.
+* __Bargaining and Trading__: A skill also acquired from his years at sea, Old Salt has a knack for trading goods. He also is better than most at diffusing tense situations.
+
+==== Connections ====
+[[Governments and Organizations:Fishermen's Guild|• Fisherman's Guild]] - Elias was high ranking member of the Fishermen's Guild, back when the Guild was still a going concern of course. He is well known throughout the town for defending the fishing industry and the town's people in island politics. 
+
+
+
+

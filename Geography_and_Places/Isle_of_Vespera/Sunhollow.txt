@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:08:51-04:00
+
+====== Sunhollow ======
+===== Location =====
+Central region of the Isle of Vespera, on the eastern bank of the [[Vesperian River]].
+{{~\Downloads\download(2).png?width=500}}
+===== = =====
+===== Geography =====
+The greater Sunhollow area has sprawling farmlands that stretch as far as the eye can see, all connected by well-trodden wagon paths. It is a tranquil area, and the streets are never too busy. 
+
+===== Key Features =====
+=== [[Governments and Organizations:Farmer's Guild|Farmer's Guild]] Headquarters ===
+The heart of Sunhollow, this is where influential members of the Farmer's Guild convene to discuss isle politics and the welfare of the agrarian community.
+
+=== [[Vesperian River|Vesperian Riverbank]] ===
+The eastern banks of the river provide fertile soil to the settlement, but also prove as a danger at times. The river is known for it's great width and ability to reach great speeds; the people of Sunhollow have lost children and cattle to it's powerful stream in the past.
+
+=== Harvest Market Square ===
+Every week, farmers from across the region gather to sell their goods, offering everything from fresh produce to homemade artisan crafts.
+
+=== Sunhollow Festival Grounds ===
+Known for vibrant seasonal festivals that celebrate planting and harvest cycles, complete with music, dance, and feasting. Outside of the festival seasons, the grounds lie dormant save for the occasional wandering vagrant or stray animal.
+
+===== Local Culture =====
+Sunhollow is known for being a rather homogeneous community, being that there is not much reason to reside in the area if you're not a member of the agricultural community. The like-minded farmers value mutual aid and the sharing of resources.
+
+The [[Governments and Organizations:Farmer's Guild|Farmer's Guild]] holds control over all matters of the Sunhollow settlement, settling any interpersonal disputes as well as representing the community in greater matters. 
+
+Local customs include the annual "First Seed Celebration", marking the start of planting season with blessings, communal planting rituals, and general merriment.
+
+
+===== Notable Residents =====
+=== [[NPCs:Thalia Greenfield|Thalia Greenfield]] ===
+Respected leader of the Farmer's Guild, donning the title of 'Guildmaster', Thalia is known for her insights into sustainable agriculture and her courage in standing up for the farmer's rights. Even under threat of violence, she has been known to never back down in debates with island powers.
+
+=== [[NPCs:Elder Rowan|Elder Rowan]] ===
+The oldest residing member in the Sunhollow settlement, Elder Rowan is known for his expansive knowledge of Vespera and his tendency for long-winded storytelling. He is often found entertaining and offering advice to travelers and children at the market. 
+
+===== Quest Lines =====
+
+

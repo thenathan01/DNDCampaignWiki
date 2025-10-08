@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:08:05-04:00
+
+====== Dawn's Edge ======
+===== Location =====
+East coast of the Isle of Vespera
+{{~\Downloads\download(5).png?width=400}}
+
+===== Geography =====
+Dawn's Edge is on the rocky coast of [[Isle of Vespera|Vespera]], with the [[Storm Crags]] lying just a ways to the north. The town is nestled into what once was the peak fishing ecosystem of the entire Isle.
+
+===== Key Features =====
+=== The Seagull's Haven ===
+A popular tavern run by Elias "Old Salt" Merrill, known for it's humble atmosphere and tight community of regulars.
+
+== Abandoned [[Governments and Organizations:Fishermen's Guild|Fishermen's Guild]] Building ==
+An abandoned building along the coast that once served as the bustling head of the local fishing economy, a powerful group amongst the island residents. It now stands as a reminder of what once was.
+
+== The Whisker's Ass ==
+The only merchant of note still running out of Dawn's Edge, The Whisker's Ass is located in the central town area and run by Perin Thornhill. He and his pet ferret can be found in his shop at any time of day, selling a variety of wares. 
+
+===== Local Culture =====
+Dawn's Edge has a tightly knit community, especially after the collapse of the fishing indutry led to a large exodus of the cities population. Those who remain take pride in the town and the humble living they are able to sustain there. 
+
+Since the decline of the fishing industry the local order has nearly entirely collapsed, and crime in the area is far from uncommon. Bandit troups pass through frequently, and sightings of bats flying down from the [[Storm Crags]] to the north are increasingly common.
+
+===== Notable Residents =====
+== Elias '[[NPCs:Elias Old Salt|Old Salt']] Merill ==
+Former 'Master Fisher' and representative of the Farmer's Guild, Old Salt now runs the Seagull's Haven in the center of town. He is an anchor for the people of Dawn's Edge, and is more representative of the city than anyone else still residing there.
+
+== Peren Thornhill ==
+From a family of merchants, Peren prides himself on his variety of wares. His resilience is as strong as all who have stayed in Dawn's Rest, and his merchant services there are necessary for any traveller's passing through.
+
+===== Quest Lines =====
+[>] Clearing out the Bandit's from the old [[Governments and Organizations:Fishermen's Guild|Fishermen's Guild]], and retrieve the Guild Emblem from Old Salt's former office
+	[*] A Chuul lies in wait under the foundation of the old building.
+
+[*] Investigate the Screaming Temple to figure out the source of the disturbance.
+
+
+

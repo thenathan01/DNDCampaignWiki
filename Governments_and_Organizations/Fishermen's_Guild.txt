@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-16T10:59:26-04:00
+
+====== Fishermen's Guild ======
+==== Overview ====
+The Fishermen's Guild was once a cornerstone of trade and industry, based on the coast in [[Geography and Places:Isle of Vespera:Dawn's Edge|Dawn's Edge]]. Representatives of the guild would speak in [[Geography and Places:Isle of Vespera:Azura's Rest|Azura's Rest]] and contribute to island political decisions, as their contributions weighed significantly on the island economy. 
+
+However, in the last two decades, the fish were less and less abundant, and the guild was eventually disbanded entirely. It's headquarters rests abandoned in Dawn's Edge, now a relic of a forgotten era.
+
+==== History ====
+In it's prime, the guild was a powerful entity that managed fishing expeditions, coastal operations, trapping, and even overseeing some sea trade routes. Representatives of the guild, [[NPCs:Elias Old Salt|Old Salt]] among them, were sent on occasion to participate in councils at [[Geography and Places:Isle of Vespera:Azura's Rest|Azura's Rest]].
+
+Beginning around twenty years ago, in the year 2991, a combination of shifting ocean patterns and systematic overfishing led to a gradual decline in the sea life around the isle, crippling the fishing economy and eventually resulting in the abandonment of the guild
+
+==== Current Role ====
+Today, the Fishermen's Guild no longer operates, its remnants absorbed by smaller, indpendent fishing operations and families that rely on localized trade and travelling merchants to distribute their goods. 
+
+There are occasional discussions about revitilization efforts in [[Geography and Places:Isle of Vespera:Dawn's Edge|Dawn's Edge]], but recent ocean surveys show that the fish population will likely remain in its current state for many years to come. 
+
+==== Cultural Significance ====
+For the people of [[Geography and Places:Isle of Vespera:Dawn's Edge|Dawn's Edge]], the guild once stood as a great source of pride and identity. In many ways, the city was founded and sustained for the past century as a result of the guild's existence. 
+
+Now, the vacant guild headquarters stands as a reminder of better days and lessons learned. The city's population has decreased drastically since those days, and those who remain have found other ways to make a living.
+
+{{~\Downloads\download(4).png?width=600}}

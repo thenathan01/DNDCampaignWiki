@@ -1,0 +1,69 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:11:18-04:00
+
+====== Crell ======
+===== Basic Information =====
+== Race and Class: Dragonborn Cleric ==
+
+
+== Alignment ==
+
+== Background: Sage ==
+
+== Appearance ==
+
+== Personality ==
+
+== Languages ==
+
+
+===== Skills and Abilities =====
+== Ability Scores ==
+* Intelligence: 16 (+3) 
+* Constitution : 15 (+2) 
+* Wisdom : 14 (+2)
+* Strength: 12 (+1) 
+* Dexterity: 12 (+1)
+* Charisma: 9 (-1)
+== Proficiencies ==
+* Arcana (INT)
+* History (INT)
+* Insight (WIS)
+* Medicine (WIS)
+== Passive Senses ==
+* Investigation: 9
+* Insight: 10
+* Perception: 12
+===== Inventory and Equipment =====
+== Armor Proficiencies ==
+* Light 
+
+Arlonia Estinova currently wears __STUDDED LEATHER ARMOR__
+Other armor pieces in his inventory include:
+* Leather Armor
+
+== Weapon Proficiencies ==
+* Simple
+
+Arlonia Estinova currently wields a __DAGGER__ and a __SICKLE.__
+Other weapons in his inventory include:
+* 
+
+== Spells and Cantrips ==
+Crell has __3 LEVEL ONE__ spell slots. His known spells include:
+* Hellish Rebuke
+* Bane
+* False Life Hex
+
+He also knows the following cantrips:
+* Eldritch Blast
+* True Strike
+
+
+== Tools ==
+
+== Key Items ==
+* Waterskin full of Milk
+
+===== Relationships =====

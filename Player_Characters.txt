@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:10:58-04:00
+
+====== Player Characters ======
+Our campaign has a total of 3 player characters.
+
+Max is playing as a __Dragonborn Cleric__ named __Crell__.
+Isaac is playing as a __Tiefling Warlock__ named __Arlonia Estinova__.
+Sam is playing as a __Half-Orc Barbarian__ named __Big Chungus.__
+ 
+

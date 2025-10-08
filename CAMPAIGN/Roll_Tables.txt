@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-30T12:58:12-04:00
+
+====== Roll Tables ======
+==== Sea Travel ====
+d20
+1- A boulder is seen floating past the ship. Upon inspection the boulder is indeed made of stone, but floats inexplicably.
+2- A whale emerges from the depths and a nearby ship attempts to attack it, the captain of said ship is constantly rambling about revenge and has a peg-leg. If the characters do not intervene the ship is destroyed and the whale goes back under.
+3- The ship passes by a Sea Stack where a sailor, crazed through starvation, begs to be taken aboard. He swears he is an expert navigator.
+4- The travelers meet a traveling brothel ship titled “The Lusty Crustacean”.
+5- A small bird begins circling your ship, then two, then a thousand, then an innumerable flock
+6- One of the barrels serving as floatation to the raft springs a hole and starts taking on water.
+7- You pass by a hermit living on a self sufficient fishing platform. They chuck rotten fish at your ship if you get too close.
+8- A Naga is found floating on a piece of driftwood. She begs to come aboard and appears to have been starving.
+9- The crew spots a Water Genasi swimming through shallow waters near the south coast of the island
+10- A large object bumps against the hull of the ship. After hauling it aboard, the crew discovers it is a huge glass bottle the size of a person, with an equally large scroll inside. On it is a beautiful poem written in Giant.
+11- A small grouping of Giant Bats is flying past overhead. If investigated closely, the crew can see that at least one of the bats has a wizard riding.
+12- The ship comes across a fairly large merchant vessel named “The Seaside Exstravaganza”. The merchant who runs the ship, a stern but fair old woman named Gellie, deals in merchandise from faraway countries. She quickly becomes fond of one of the party and offers them a spot among her crew.
+13- The crew hears a haunting melody emanating from the water. Below, they find a perfectly smooth stone emitting the song. It’s rumored to belong to the merfolk and returning it might earn their favor
+14- Bright coral can be seen just beneath the waves, exuding a faint magical aura. If approached, the coral causes hallucinations of a utopian underwater world, which must be dispelled by Insight checks or teamwork.
+15- The ship sails into an eerie fog that seems to evoke memories from the past related to the sea, affecting one or more characters profoundly. These visions might provide new insight or lead to unresolved plot points.
+16- 
+17- 
+18-
+19- 
+20-
+
+
+

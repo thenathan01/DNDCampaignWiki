@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-09T11:07:33-04:00
+
+====== Isle of Vespera ======
+===== Location =====
+East of Mainland [[:Geography and Places:Aranthor|Aranthor]]
+
+{{~\Downloads\Isle of Vespera.jpg?width=580}}
+
+===== Geography =====
+The Isle of Vespera is a diverse and fertile island with an abundance of agriculture. The island features a variety of terrains, including rolling hills, dense deciduous [[:Geography and Places:Isle of Vespera:The Elderwoods|forests]], and an expansive river delta. The [[:Geography and Places:Isle of Vespera:Vesperian River|Vesperian River]] runs through the heart of the island, providing essential water for agriculture and splitting the island geographically into the east and west sides, with only two man-made crossing points. 
+
+===== Climate =====
+Vespera enjoys a temperate climate near year round with light fluctuation of temperatures. The two seasons relevant to life on the Isle are those that come with the ebb and flow of the river; flooding season and low river season. The mild winters and warm summers make the isle ideal for year-round agriculture.
+
+===== Agriculture =====
+Supported by the fertile soil and favorable climate, vast fields of crops and orchards across Vespera produce a variety of fruits, vegetables, and grains. The harvests are always plentiful and provide for all the peoples of the isle, while also supporting the people of Azura's Rest.
+
+===== Cities and Settlements =====
+The Isle of Vespera is home to several different diverse settlements, both in industry and culturally.
+
+== [[:Geography and Places:Isle of Vespera:Azura's Rest|Azura's Rest]] ==
+While the Isle of Vespera exists without an officially designated capital, the port hub of Azura's Rest would be an obvious choice should the designation be made. A crucial point for trade and commerce, this hub sees frequent traffic from [[:Geography and Places:Aranthor|Aranthor]], and boasts protections provided by joint efforts of the [[:Governments and Organizations:Obsidian Citadel Army Corps (OCAC)|OCAC]] and the [[:Governments and Organizations:Obsidian Citadel Army Corps (OCAC):Azura's Rest Guard|ARG.]]
+
+== [[:Geography and Places:Isle of Vespera:Dawn's Edge|Dawn's Edge]] ==
+A coastal city known for beautiful sunrises over the East of the island and its once thriving fishing industry. 
+
+== [[:Geography and Places:Isle of Vespera:Greenbrook|Greenbrook]] ==
+A unique town raised up on stilts in order to withstand the power of the floods in the delta region. The habitants of the city are almost entirely [[:Races and Creatures:Water Genasi|Water Genasi]] who thrive through their ability to forage the river during the flood season.
+
+== [[:Geography and Places:Isle of Vespera:Elderwood City|Elderwood City]] ==
+A settlement built on the edge of the ancient [[:Geography and Places:Isle of Vespera:The Elderwoods|Elderwoods]], with a reputation for its skilled carpenters and mysterious woodland tales. 
+
+== [[:Geography and Places:Isle of Vespera:Sunhollow|Sunhollow]] ==
+Near the direct center of the isle, the Sunhollow settlement boasts vibrant farmers markets and the home of the Farmer's Guild. While infrastructurally small, Sunhollow occupies a large area of land in which surrounding farms are connected as far as you can see.
+
+===== Governance =====
+The Isle of Vespera lacks an official governing element and political matters are dealt with nearly entirely by the [[:Governments and Organizations:Obsidian Citadel Army Corps (OCAC):Azura's Rest Guard|Farmer's Guild]] and the [[:Geography and Places:Isle of Vespera:Azura's Rest|ARG]]. The settlements of [[+Greenbrook|Greenbrook]] and [[:Geography and Places:Isle of Vespera:Elderwood City|Elderwood City]] have city councils that handle local matters and act as leaders in crisis scenarios, which are rare. ~~Some suggest that the [[Governments and Organizations:Eclipsed Order|Eclipsed Order]] have hidden influences in the island politics, but claims of this are entirely unbased.~~
+
+===== History =====
+For over a millenia the Isle of Vespera existed as a desolate, rocky, and stormy rock that was ignored by the Eldarii as they began their ascent over Aranthor. __FIX FIX__ E.O starts as a small sect of wizards who began to perform ritual magic worshipping the god [[Religion and Beliefs:Vespera|Vespera]], betraying the Eldarii customs, and leading to their exile  from Aranthor by the Eldarii. They settle in the Storm Crags of the island, name it for their new god, and get by there perfecting their magic for centuries. They arrive at a point where they realize that in order to maintain their base in the mountains unbothered, something drastically needed to change about the isle. So, they hatched a plan to convert the small stream flowing across the isle into a massive flowing river, that would over the course of the following decades fertilize the soil, and completely change the climate of the island. After word spread of the new economic potential at the island, ships began to come and settlements were formed.
+
+
+
+
+
