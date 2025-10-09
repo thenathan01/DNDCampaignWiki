@@ -13,34 +13,66 @@ Elderwood City lies in the south-east of the Isle of Vespera, just off to the ea
 * Carver's Guild
 * ARG House
 * The East Entrance
+* The Northwest Entrance (Behind the Sawmill)
+* The West Woods Entrance
 * Artisan Market
 * Elandra's Storefront
 	* And her lab
 * Dust Pits
 * Saw Mill
-	* Mill workers lodging's
+	* Mill workers lodgings
 
+===== Entrances and Gates =====
+* Three main gates lie to the East, Southeast, and South of the city, each manned by guards.
+* Northwest Entrance: Hidden behind the Sawmill, used primarily by mill workers for lumber transport. Rumors suggest it's used for smuggling.
+* West Woods Entrance: Manned by Azura's Rest Guard, who monitor comings and goings into the woods. Locals avoid this entrance.
 
 ===== Local Culture =====
-* The Artisan Market stays open year round, and features select crafts that the city is known for, including some made by members of the Carver's guild. 
-	* A wide variety of crafts are available for purchase here, some seemingly mere trinkets, and others with a variety of uses.
-		* NEED SHOP LISTING/DIFFERENT BOOTH TYPES
-		* Blankets
-		* Tiny Model Ships
-		* Kitchen Supplies (cutting boards, wooden spatulas and spoons, etc.)
-* The mill workers reside in less-than desireable lodgings surrounding the sawmill. Their work is essential to Elderwood City, but their presence is often contentious. They are mostly sent on year-long contracts from the Azura's Rest Labor Office. Apart from the Mill Boss, Grady, who is native to the city and has run the mill for many years, through many different shifts of mill workers.
-* The wish fountain in the center of the city is a grand construction, and it's existence dates back to the very earliest (and most prosperous) days of the city itself. It's existence is a symbol of hope and optimism to some, and to others a dismal display of times long past.
+* The Artisan Market stays open year-round and features crafts the city is known for, including items made by the Carver's Guild.
+	* Vendors include:
+		* Madam Zara’s Fortune-Telling Tents
+		* Barlow’s Bizarre Baubles
+		* The Drunken Cartographer
+		* Goblin Gus’s ‘Gourmet’ Eats
+		* Overly Elaborate Spoons
+        * Tiny Wooden Ships
+        * Blankets
+	* A wide variety of crafts are available for purchase, some seemingly mere trinkets, and others with a variety of uses.
+* The mill workers reside in less-than-desirable lodgings surrounding the sawmill. Their work is essential to Elderwood City, but their presence is often contentious.
+* The wish fountain in the center of the city is a grand construction, and its existence dates back to the earliest days of the city. It's a symbol of hope and optimism to some, and to others, a dismal display of times long past.
+* The Splintered Stump: A bar frequented by mill workers, known for its rowdy atmosphere and quirky challenges.
 
 ===== Notable Residents =====
 * Elandra
 * Master Carver Thorne
 * Grady the Mill Boss
 * Market Vendors
-	* tiny model ship person
+	* Madam Zara
+	* Barlow
+	* The Drunken Cartographer
+	* Goblin Gus
+
+===== Rumors and Legends =====
+* Locals whisper that the mill workers use the Northwest Entrance to sneak in contraband lumber—or worse—from the woods.
+* Kids dare each other to run across the Dust Pits without sinking. Some say if you sink too deep, you’ll never come back out.
+* Every so often, someone swears they’ve seen a face in the dust—just for a second—before it vanishes.
+* Rumors say Elandra’s lab is filled with strange, glowing plants and jars of things that… move on their own.
+* She’s been seen sneaking into the woods at night, but no one knows why.
 
 ===== Quest Lines =====
-* Fetching Sunblossom Petals from the Woods to heal the people of their affliction
+* Fetching Sunblossom Petals from the Woods for Elandra's project
 * Being awarded the Carvers Guild Emblem
-	* Master Thorne may reveal to the party, only after they have gained his trust, the true purpose of the Guild emblems, and that they must be brought to the Azura's Rest Capital and slotted in to the round table
+	* Master Thorne may reveal to the party, only after they have gained his trust, the true purpose of the Guild emblems
+
+===== Festivals and Events =====
+* Elderwood Follies: An annual wood-carving festival with ridiculous undertones.
+	* Contest Categories:
+		* Most Useless Invention
+		* Best Likeness of a Local
+		* Most Likely to Summon a Demon
+	* Festival Drama:
+		* The Carver’s Guild and the Sawmill always enter rival teams, and it always devolves into a brawl.
+		* Last year, someone carved a very unflattering statue of Grady, which is now hidden somewhere in the city.
+
 
 
