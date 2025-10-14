@@ -35,8 +35,8 @@ Elderwood City lies in the south-east of the Isle of Vespera, just off to the ea
 		* The Drunken Cartographer
 		* Goblin Gus’s ‘Gourmet’ Eats
 		* Overly Elaborate Spoons
-        * Tiny Wooden Ships
-        * Blankets
+		* Tiny Wooden Ships
+		* Blankets
 	* A wide variety of crafts are available for purchase, some seemingly mere trinkets, and others with a variety of uses.
 * The mill workers reside in less-than-desirable lodgings surrounding the sawmill. Their work is essential to Elderwood City, but their presence is often contentious.
 * The wish fountain in the center of the city is a grand construction, and its existence dates back to the earliest days of the city. It's a symbol of hope and optimism to some, and to others, a dismal display of times long past.
