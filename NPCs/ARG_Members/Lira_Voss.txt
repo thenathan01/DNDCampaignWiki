@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-10-15T14:47:45-04:00
+
+= Lira "Smiles" Voss =
+
+== Overview ==
+Lira "Smiles" Voss is a **corporal in the Azura’s Rest Guard (ARG)**, serving as a **patrol leader for the trade routes**. Known for her **cheerful demeanor** and **obsessive dedication to catching smugglers**, Lira is **enthusiastic to a fault** and **hates rule-breakers** with a passion. She tracks her "busts" in a tiny notebook and **loves bragging about her record** to anyone who will listen.
+
+== Background ==
+- **OCAC Assignment**: Lira was **assigned to the ARG** after proving herself as a **diligent but overly eager soldier** in the OCAC. She **loves her job** and sees it as a **chance to make a difference**. 
+- **Smuggler Hunter**: Lira has made it her **personal mission** to **root out smugglers** on the island. She **takes pride in her success rate** and **keeps a detailed tally** of her captures. 
+- **Local Reputation**: While some **admire her dedication**, others **find her enthusiasm exhausting**. Smugglers **fear her**, and merchants **try to avoid her patrols**.
+
+== Personality ==
+- **Cheerful and Energetic**: Lira **always has a smile** on her face, even when **chasing down criminals**. Her **optimism is infectious**, though some find it **annoying**. 
+- **Obsessive About Rules**: She **hates smugglers** and **loves catching them**. She **tracks every bust** in her notebook and **braggs about her record**. 
+- **Competitive**: Lira sees her work as a **game** and **wants to win**. She **competes with herself** to break her own records and **loves a challenge**.
+
+== Quirks ==
+- **Notebook of Busts**: Lira carries a **tiny notebook** where she **records every smuggler she catches**, including **details like time, location, and contraband**. 
+- **Bragging Rights**: She **loves telling stories** of her **greatest busts** and will **happily share them** with anyone who asks (or doesn’t). 
+- **Overly Trusting**: Lira **assumes everyone is honest** until proven otherwise, which **sometimes gets her into trouble**.
+
+== Role in the Campaign ==
+- **Patrol Leader**: Lira can be **encountered on patrol**, where she might **question the players** if they look suspicious. 
+- **Smuggler Hunt**: If the players are **involved in smuggling**, Lira could become a **recurring antagonist**, always **one step behind them**. 
+- **Potential Ally**: If the players **help her catch a smuggler**, Lira may **owe them a favor** or **turn a blind eye** to their activities.
+
+== Notable Quotes ==
+- "Another **successful bust**! That’s **three this week**—new record!"
+- "You look **suspicious**. Mind if I **check your bags**?"
+- "Smugglers are **cowards**. They **hide in the shadows** while I **bring them to justice**!"
+
+== Relationships ==
+- **Thalric "The Quill" Veyne**: Lira **respects Thalric** but thinks he’s **too cynical**. She **wants to prove herself** to him. 
+- **Eldrin "Gatekeeper" Marr**: Lira **admires Eldrin’s dedication** but thinks he’s **too rigid**. 
+- **Goran "The Bull" Durn**: Lira **distrusts Goran** and **avoids him** when possible.
