@@ -1,7 +1,66 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-05-06T16:50:20-04:00
-
 ====== Master Carver Thorne ======
-Created Tuesday 06 May 2025
+==== Basic Information ====
+- **Creature Type:** Humanoid (Human)
+- **Size:** Medium
+- **Alignment:** Lawful Neutral
 
+==== Stats ====
+- **AC:** 15 (Studded Leather)
+- **HP:** 50
+- **Speed:** 30 ft. (Walk)
+- **Initiative:** +2
+
+==== Attributes ====
+- **STR:** 14 (+2)
+- **DEX:** 14 (+2)
+- **CON:** 16 (+3)
+- **INT:** 12 (+1)
+- **WIS:** 14 (+2)
+- **CHA:** 16 (+3)
+
+==== Saving Throws ====
+- **Constitution:** +6
+- **Wisdom:** +5
+
+==== Skills ====
+- **Persuasion:** +6
+- **Insight:** +5
+- **Crafting (Woodworking):** +8
+- **Perception:** +5
+- **Athletics:** +5
+
+==== Traits ====
+- **Master Craftsman:** Thorne has advantage on any ability checks related to woodworking or crafting.
+- **Guild Authority:** As the head of the Carver's Guild, Thorne can command respect and obedience from guild members.
+- **Keen Eye:** Thorne has a sharp eye for detail, granting him advantage on Perception checks related to craftsmanship.
+
+==== Actions ====
+- **Masterwork Chisel:** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+- **Guild Command:** Thorne can use a bonus action to command a guild member within 30 feet to take a specific action.
+
+==== Legendary Actions ====
+- Master Carver Thorne can take 0 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Thorne regains spent legendary actions at the start of his turn.
+
+==== Equipment ====
+- Masterwork Chisel
+- Studded Leather Armor
+- Woodworking Tools
+- Guild Insignia
+- Ledger of Guild Accounts
+
+==== Personality Traits, Ideals, Bonds, and Flaws ====
+- **Personality Traits:**
+  - "Precision is the soul of craftsmanship."
+  - "Respect is earned, not given."
+  - "Every piece of wood has a story to tell."
+
+- **Ideals:**
+  - "The Carver's Guild must uphold the highest standards of craftsmanship and integrity."
+
+- **Bonds:**
+  - "The Carver's Guild is my life's work, and its members are my family."
+
+- **Flaws:**
+  - "I can be overly critical of work that does not meet my exacting standards."
+
+==== Created Tuesday 06 May 2025 ====
