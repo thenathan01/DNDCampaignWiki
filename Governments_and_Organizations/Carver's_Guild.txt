@@ -5,3 +5,12 @@ Creation-Date: 2025-05-06T16:50:10-04:00
 ====== Carver's Guild ======
 Created Tuesday 06 May 2025
 
+
+
+Quest
+- Guild Insignia
+- Guild Ledgers
+	- can be found on Thorne's desk
+	- contains unexpected work the Guild has been doing (but what and for who?)
+	- maybe it's for the Kenku, they have been building them ships ad quietly sending them to the rat's nest for some sort of plan	
+
